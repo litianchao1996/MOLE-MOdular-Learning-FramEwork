@@ -1,7 +1,7 @@
-<p align="center">
+
 # MOLE: MOdule Learning FramEwork via Mutual Information Maximization
 Here display the part of results with good performance.
-
+<p align="center">
 <img src="pipeline.png" width="600" />
 
 ## BibTeX Citation
